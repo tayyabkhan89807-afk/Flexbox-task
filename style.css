@@ -1,0 +1,103 @@
+body {
+    background-color: bisque;
+}
+
+
+.containor {
+    background-color: bisque;
+    
+    margin: 2px;
+    padding: 2px;
+
+}
+.box {
+    height: 170px;
+    width:  170px;
+    border: solid 1px brown;
+    margin: 2px;
+    padding: 2px;
+    color: withe;
+    font-size: 25px;
+    border-radius: 10%;
+   
+}
+
+#box1 {
+    background-color: aqua;
+    color: black;
+}
+
+#box2 {
+    background-color: rgb(248, 138, 21);
+    color: black;
+}
+
+#box3 {
+    background-color: rgb(245, 193, 147);
+    color: black;
+}
+
+#box4 {
+    background-color: rgb(198, 242, 4);
+    color: black;
+}
+
+  /* Task 1 */
+   
+/* .containor {
+    display: flex;
+    justify-content:  center;
+    height: 100vh;
+    align-items: center;
+} */
+
+  /* Task 2 */
+/* .containor {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center; 
+}*/
+
+/* Task 3 */
+
+/* .containor{
+    display: flex;
+    height: 100vh;
+    justify-content: flex-end;
+    align-items: flex-end;
+} */
+
+/* Task 4 */
+
+/* .containor {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+} */
+
+/* Task 5 */
+
+/* .containor {
+    display: flex;
+    justify-content: space-between;
+    height: 100vh;
+    align-items: flex-end;
+} */
+
+/* Task 6 */
+
+/* .containor {
+    display: flex;
+    flex-direction: row-reverse;
+} */
+
+/* Task 7 */
+
+/* .containor {
+     display: flex;
+     flex-direction: row-reverse;
+     justify-content: space-around;
+} */
