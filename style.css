@@ -100,4 +100,13 @@ body {
      display: flex;
      flex-direction: row-reverse;
      justify-content: space-around;
-} */
+} 
+     */
+
+.containor {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    flex-direction: row-reverse;
+}
